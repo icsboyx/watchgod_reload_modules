@@ -1,6 +1,6 @@
-# Watchdog Module for watching file changes and restart modules
+# Watchgod Module for watching file changes and restart modules
 
-This is a simple example of using watchdog module for watching file changes inside project directory and restart all loaded modules.
+This is a simple example of using watchgod module for watching file changes inside project directory and restart all loaded modules.
 
 ## Features
 
@@ -21,7 +21,7 @@ python main.py
 
 # Usage
 
-Once the main.py is running you can modify modules file inside modules directory and watchdog will restart all loaded modules
+Once the main.py is running you can modify modules file inside modules directory and watchgod will restart all loaded modules
 
 ![](example.gif)
 
