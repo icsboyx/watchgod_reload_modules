@@ -1,4 +1,4 @@
-# Watchgod Module for watching file changes and restart modules
+# Using Watchgod Module for watching file changes and restart modules
 
 This is a simple example of using watchgod module for watching file changes inside project directory and restart all loaded modules.
 
